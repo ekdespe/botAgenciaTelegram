@@ -1,0 +1,26 @@
+ /nomeBolsista
+	Adicionar descrição de cada bolsista
+		Modalidade de Bolsa
+		Link para o Lattes
+		Titulação
+		Área de Pesquisa
+	
+
+/ppgIntinerante
+
+/eventos
+
+
+
+
+
+
+
+
+Permitir marcação de reunião via comando
+Envio de lembrete 1 dia antes da reunião >> utilizar crontab
+
+criar interface html para adicionar e remover coisas do sistema
+ 
+
+

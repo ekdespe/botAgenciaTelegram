@@ -1,0 +1,10 @@
+	capturar com tempo
+tshark -i wlan1 -a duration:60 -w saida
+
+
+filtrar apenas MAC's
+	tshark -r teste -T fields -e wlan.sa
+
+ filtrar e organizar por saida única
+	tshark -r saida  -T fields  -e wlan.sa | sort -u
+
